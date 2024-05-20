@@ -1,0 +1,16 @@
+title: Bronnen
+description: Alle (gebruikte) bronnen van de sites.
+baseurl: "/bronnen"
+url: "https://kevin-51.github.io" # the base hostname & protocol for your site
+
+theme: minima # or any other Jekyll theme
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+include:
+- lijst
+
