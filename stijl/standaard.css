@@ -92,7 +92,7 @@ footer {
     padding-top: 10px;
 }
 
-article a, footer a {
+p a, article a, footer a {
     color: #073763;
     font-style: italic;
 }
