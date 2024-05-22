@@ -1,6 +1,6 @@
 ---
 title: Inhoudsopgaven
-layout: bron-24H1
+layout: index-24H1
 ---
 
 <!--Inhoudsopgaven-->
