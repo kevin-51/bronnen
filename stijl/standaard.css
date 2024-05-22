@@ -92,7 +92,7 @@ footer {
     padding-top: 10px;
 }
 
-p a, article a, footer a {
+p a, article a, footer a, li a {
     color: #073763;
     font-style: italic;
 }
@@ -147,4 +147,10 @@ header {
 
 .text {
     margin: 0 10px 20px 10px;
+}
+
+li {
+    font-feature-settings: 'liga', 'kern';
+    font-size: 18px;
+    line-height: 25px;
 }
