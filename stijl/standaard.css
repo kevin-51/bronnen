@@ -72,7 +72,7 @@ article h1 a {
     color: black;
 }
 
-p, article > a {
+p, li, article > a {
     font-feature-settings: 'liga', 'kern';
     font-size: 18px;
     line-height: 25px;
@@ -92,7 +92,7 @@ footer {
     padding-top: 10px;
 }
 
-p a, article a, footer a {
+p a, article a, footer a, li a {
     color: #073763;
     font-style: italic;
 }
