@@ -72,7 +72,7 @@ article h1 a {
     color: black;
 }
 
-p, li, article > a {
+p, article > a {
     font-feature-settings: 'liga', 'kern';
     font-size: 18px;
     line-height: 25px;
@@ -147,4 +147,10 @@ header {
 
 .text {
     margin: 0 10px 20px 10px;
+}
+
+li {
+    font-feature-settings: 'liga', 'kern';
+    font-size: 18px;
+    margin: 0 0 20px;
 }
