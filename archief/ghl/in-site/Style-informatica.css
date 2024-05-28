@@ -1,0 +1,38 @@
+h1 {font-family:"Trebuchet MS"}
+h2 {font-family:"Trebuchet MS"}
+h3 {font-family:"Trebuchet MS"}
+@font-face {
+	font-family: OpenSans-Medium;
+	src: url(fonts/Open_Sans/OpenSans-Medium.ttf);
+}
+p {
+	font-family: OpenSans-Medium;
+	font-size: 16px;
+	text-align:  justify;
+}
+li {font-family: OpenSans-Medium}
+.heading{
+	background-color: #f3737c;
+	padding: 10px 10px;
+	font-style: bold;
+	text-align: center;
+	color: #ffffff;
+}
+.version{
+	font-family:"Courier-new";
+	font-size:"5px";
+}
+.button{
+	background-color: #545454;
+	font-size: 16px;
+	font-family:"Trebuchet MS";
+	color: #ffffff;
+	text-align: center;
+	display: inline-block;
+	padding: 10px 30px;
+	text-decoration: none;
+}
+
+#container { overflow: hidden; }
+#floated-imgs { float: right; }
+#floated-imgs img {display: block; }

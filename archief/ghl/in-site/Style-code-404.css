@@ -1,0 +1,27 @@
+h1 {font-family:"Trebuchet MS"}
+h2 {font-family:"Trebuchet MS"}
+h3 {font-family:"Trebuchet MS"}
+@font-face {
+	font-family: OpenSans-Medium;
+	src: url(fonts/Open_Sans/OpenSans-Medium.ttf);
+}
+p {
+	font-family: OpenSans-Medium;
+	font-size: 16px;
+	text-align:  justify;
+}
+li {font-family: OpenSans-Medium}
+.heading{
+	color: #c90000;
+}
+.button{
+	background-color: #545454;
+	font-size: 16px;
+	font-family:"Trebuchet MS";
+	color: #ffffff;
+	text-align: center;
+	display: inline-block;
+	padding: 10px 30px;
+	text-decoration: none;
+	border: none;
+}
