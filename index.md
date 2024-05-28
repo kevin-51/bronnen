@@ -17,3 +17,7 @@ De onderstaande afbeeldingen vallen onder de [Unsplash-license](https://unsplash
 
 ## Documenten
 *Er zijn nog geen documenten beschikbaar.*
+
+## Archief
+Hier vind je alleen het openbare archief.
+* [HEXAGON](/archief/hexagon)
