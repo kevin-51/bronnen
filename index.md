@@ -16,7 +16,7 @@ De onderstaande afbeeldingen vallen onder de [Unsplash-license](https://unsplash
 *Er zijn nog geen bronnenlijsten beschikbaar.*
 
 ## Documenten
-*Er zijn nog geen documenten beschikbaar.*
+* [Cijferlijst](/doc/ghl/cijferlijst)
 
 ## Archief
 Hier vind je alleen het openbare archief.
