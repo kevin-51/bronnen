@@ -12,7 +12,7 @@ Dit mag niet gebeuren dus ik heb hier alle foto's die in het album stonden. Down
 Anyways hierbij zijn ze niet permanent verloren! Veel plezier!
 
 ---
-### 2019
+## 2019
 ![Foto van Sven gemaakt door Pim](20191001-1.JPG)
 ![Foto van Sven gemaakt door Pim](20191001-2.JPG)
 ![Foto van Sven gemaakt door Pim](20191001-3.JPG)
@@ -20,7 +20,7 @@ Anyways hierbij zijn ze niet permanent verloren! Veel plezier!
 ![Foto van Sven](20191002-2.JPG)
 ![Foto van Sven](20191002-3.JPG)
 ![Foto van Sven](20191002-4.JPG)
-![Foto van Levi bewerkt door Sven](20191002-5.JPG)
+![Foto van Levi bewerkt door Sven](20191002-5.jpg)
 **&uarr; Legendarische foto &uarr;**
 
 ![Foto van Jeroen](20191017-1.JPG)
@@ -31,7 +31,7 @@ Anyways hierbij zijn ze niet permanent verloren! Veel plezier!
 ![Foto van Jeroen](20191108-2.JPG)
 ![Onbekend](20191212.JPG)
 
-### 2022
+## 2022
 ![Foto van Noah en Jeroen](20220408-1.JPG)
 ![Foto van Noah](20220408-2.JPG)
 ![Foto van Noah](20220408-3.JPG)
@@ -99,13 +99,13 @@ Anyways hierbij zijn ze niet permanent verloren! Veel plezier!
 ![Edit van Levi en Sven](20220608.JPG)
 ![Edit van Thor](20220920.JPG)
 
-### 2023
+## 2023
 ![Edit van Thor](20230306-1.JPG)
 ![Edit van Thor](20230306-2.JPG)
 ![Foto van Noah](20230405-1.JPG)
 ![Foto van Chico](20230405-2.JPG)
 
-### Geen datum
+## Geen datum
 ![Edit van Jeroen](unknown-1.JPG)
 ![Edit van Sven](unknown-2.JPG)
 ![Edit van Jeroen](unknown-3.JPG)
