@@ -7,9 +7,9 @@ title: Gekke plaatjes tijdens Frans
 De lessen zijn gevolgd, de diploma's zijn behaald en dus worden ook de schoolaccounts verwijderd. <br>
 **DUS OOK HET ALBUM VAN GEKKEN PLAATJES TIJDENS FRANS!!!**
 
-Dit mag niet gebeuren dus ik heb hier alle foto's die in het album stonden. Download ze, print ze uit, plak ze op je plafond. Doe er mee wat je wilt (behalve privacy schenden). Je mag ze wat mij betreft ook onder je kussen leggen of op je kussen en dan heel speciaal behandelen.
+Dit mag niet gebeuren dus ik heb hier alle foto's die in het album stonden. Download ze, print ze uit, plak ze op je plafond. Doe er mee wat je wilt (behalve privacy schenden). Je mag ze wat mij betreft ook onder je kussen leggen of op je kussen plakken en dan heel speciaal behandelen.
 
-Anyways hierbij zijn ze niet permanent verloren! Veel plezier!
+Anyways, hierbij zijn ze niet permanent verloren! Veel plezier!
 
 ---
 ## 2019
