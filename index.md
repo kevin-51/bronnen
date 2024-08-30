@@ -11,6 +11,7 @@ De onderstaande afbeeldingen vallen onder de [Unsplash-license](https://unsplash
 * [Banner: De volgende fase](/media/siho/2024/02-0223.jpg)
 * [Banner: Toelating](/media/siho/2024/03-0305.jpg)
 * [Banner: Toetsen](/media/siho/2024/04-0421.jpg)
+* [Banner: Hoe zijn we hier gekomen?](/media/siho/2024/09-0818.png)
 
 ## Bronnenlijst
 *Er zijn nog geen bronnenlijsten beschikbaar.*
