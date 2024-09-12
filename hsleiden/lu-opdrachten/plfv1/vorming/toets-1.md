@@ -4,6 +4,7 @@ layout: index-24H1
 permalink: /hsleiden-lu/plfv1vo-toets1/
 ---
 <!--Zelfbeeld-->
+*De versie die u nu bekijkt is niet klaar. <br>De prognose is om op 18 oktober 2024 een eindproduct te hebben.*
 <!-- 
 TO DO
 - Je toont aan dat je zicht hebt hoe je opvoeding, familie, cultuur, levensbeschouwing je gevormd hebben en wat je daarvan terugziet in je leerkrachtgedrag.
