@@ -17,12 +17,12 @@ TO DO
 - Correct Nederlands
 -->
 
-> Voeg hier een inleiding in.
+Voeg hier een inleiding in.
 
-> Voeg hier je tekst in.
+Voeg hier je tekst in.
 
-> Voeg hier je slot in.
+Voeg hier je slot in.
 
 ---
 ### Gebruikte bronnen
-> Voeg hier je gebruikte bronnen in.
+Voeg hier je gebruikte bronnen in.
