@@ -1,6 +1,6 @@
 ---
 title: Zelfbeeld
-layout: index-24H1
+layout: hsl-24H2
 permalink: /hsleiden-lu/plfv1vo-toets1/
 ---
 <!--Zelfbeeld-->
