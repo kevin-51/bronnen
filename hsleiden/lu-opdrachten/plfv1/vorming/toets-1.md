@@ -6,7 +6,7 @@ permalink: /hsleiden-lu/plfv1vo-toets1/
 <!--Zelfbeeld-->
 *De versie die u nu bekijkt is niet klaar. <br>De prognose is om op 15 november 2024 een eindproduct te hebben.*
 
-<div class="row" style="border: 1px solid #004d47;padding: 3px 7px 5px; background-color: #004d47">
+<div class="row" style="border: 1px solid #004d47; border-radius: 5px; padding: 3px 7px 5px; background-color: #004d47">
     <div class="column" style="font-weight: bold; color: #ffffff">  
         <t>Sven Bouman (1152142)<br>PLFV1A<br>15 november 2024</t>
     </div>
