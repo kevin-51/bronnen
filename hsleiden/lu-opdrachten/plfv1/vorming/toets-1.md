@@ -4,7 +4,17 @@ layout: hsl-24H2
 permalink: /hsleiden-lu/plfv1vo-toets1/
 ---
 <!--Zelfbeeld-->
-*De versie die u nu bekijkt is niet klaar. <br>De prognose is om op 18 oktober 2024 een eindproduct te hebben.*
+*De versie die u nu bekijkt is niet klaar. <br>De prognose is om op 15 november 2024 een eindproduct te hebben.*
+
+<div class="row" style="border: 1px solid #3f3f3f;padding: 0px 5px">
+    <div class="column">  
+        <t>Sven Bouman (1152142)<br>PLFV1A<br>15 november 2024</t>
+    </div>
+    <div class="column">
+        <t>Vorming<br>Harima van Wijhe<br>PLFV1VO Toets-01<br>Gelegenheid 1</t>
+    </div>
+</div><br>
+
 
 <!-- 
 TO DO
@@ -24,6 +34,12 @@ Voeg hier een inleiding in.
 Voeg hier je tekst in.
 
 Voeg hier je slot in.
+
+## Kunstwerken
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0F0Fsao0H2ceIQdzGNTkrP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qpmH5ijUjGGKB0ZcJUzwh?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 ### Gebruikte bronnen
