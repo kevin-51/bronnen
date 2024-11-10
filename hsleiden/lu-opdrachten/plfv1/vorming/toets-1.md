@@ -8,7 +8,7 @@ permalink: /hsleiden-lu/plfv1vo-toets1/
 
 <div class="row" style="border: 3px solid #004d47; border-radius: 5px; padding: 3px 7px 5px;">
     <div class="column" style="font-weight: bold; color: #004d47">  
-        <t>Sven Bouman (1152142)<br>PLFV1A<br>15 november 2024</t>
+        <t>Sven Bouman<br>1152142<br>PLFV1A<br>15 november 2024</t>
     </div>
     <div class="column" style="text-align: right; font-weight: bold; color: #004d47">
         <t>Vorming<br>Harima van Wijhe<br>PLFV1VO Toets-01<br>Gelegenheid 1</t>
