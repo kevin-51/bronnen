@@ -6,11 +6,11 @@ permalink: /hsleiden-lu/plfv1vo-toets1/
 <!--Zelfbeeld-->
 *De versie die u nu bekijkt is niet klaar. <br>De prognose is om op 15 november 2024 een eindproduct te hebben.*
 
-<div class="row" style="border: 1px solid #3f3f3f;padding: 0px 5px">
+<div class="row" style="border: 1px solid #3f3f3f;padding: 3px 5px">
     <div class="column">  
         <t>Sven Bouman (1152142)<br>PLFV1A<br>15 november 2024</t>
     </div>
-    <div class="column">
+    <div class="column" style="text-align: right">
         <t>Vorming<br>Harima van Wijhe<br>PLFV1VO Toets-01<br>Gelegenheid 1</t>
     </div>
 </div><br>
