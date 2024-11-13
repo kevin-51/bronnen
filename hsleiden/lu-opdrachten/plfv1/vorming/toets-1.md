@@ -30,13 +30,13 @@ TO DO
 -->
 
 ## Ik en mijn ontwikkeling
-Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam.
+Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam. Zij zijn hier komen wonen toen onze wijk nog vollop werd gebouwd. 
 
 ## Ik en de maatschappij
 Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta ik nu? Om dit het beste uit te leggen gebruik ik tien vaktermen van *Praktijkboek Sociologie* (Hendrix, 2018).
 
 ## Kunstwerken
-<div class="row"><div class="column">
+<div class="row"><div class="column" style="right-margin: 10px;">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 </div><div class="column">
