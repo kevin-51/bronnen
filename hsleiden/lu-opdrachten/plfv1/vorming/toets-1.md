@@ -23,14 +23,16 @@ TO DO
 - Je toont aan dat je bewust bent van je directe omgeving, de plek binnen de maatschappij, welke rollen je inneemt en welke positie. Je toont hoe dat doorwerkt in je rol als leerkracht. Je neemt als uitgangspunt een sociologische bron en gebruikt hieruit een tiental vaktermen.
 - Je toont aan waarom een kunstwerk (verhaal, muziek, schilderij, ...) je raakt en wat neem je daarvan mee als leerkracht.
 - Je toont aan dat je je realiseert dat anderen een beeld van jou hebben, dat je dat creatief kunt bevragen en wat je daarvan herkent in je leerkrachtgedrag.
-- Je toont aan dat je theorie van Biesta over subjectwording begrijpt. Aan de hand daarvan geef je eerste versie van jouw visie op onderwijs.
+- Je toont aan dat je theorie van Biesta over subjectwording begrijpt. Aan de hand daarvan geef je eeste versie van jouw visie op onderwijs.
 
 - Correcte bronvermelding
 - Correct Nederlands
 -->
 
 ## Ik en mijn ontwikkeling
-Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam. Zij zijn hier komen wonen toen onze wijk nog vollop werd gebouwd. 
+Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam. Zij zijn hier komen wonen toen onze wijk nog vollop werd gebouwd. Ik heb dus vollop de ontwikkeling van mijn wijk mogen meemaken. Van het veranderen van de speeltuin tot de bouw van een nieuwe 'villawijk'.
+
+De basisschool was pas drie tot zes jaar oud toen ik erbij kwam. 
 
 ## Ik en de maatschappij
 Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta ik nu? Om dit het beste uit te leggen gebruik ik tien vaktermen van *Praktijkboek Sociologie* (Hendrix, 2018).
@@ -38,10 +40,19 @@ Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta
 ## Kunstwerken
 <div class="row"><div class="column" style="margin-right: 10px;">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<t>'De wereld gaat eraan, maar we kijken allemaal de ander kant op.' Dat is de boodschap die RAYE met het nummer <em>Environmental Anxiety.</em>. En hoewel dit op zichzelf al een confronterende boodschap is, is het nog confronterender wanneer ze het heeft over de kinderen die leven in de huidige generatie:</t>
+<quote style="margin-left: 20px;">
+Come on, kids, it's time to vote<br>
+Boris Johnson's sniffing coke<br>
+All the children are depressed<br>
+Not the future we had hoped<br>
+Little girls aren't safe at home<br>
+She scrolling up and down her phone<br>
+She hates her life, she hatеs herself<br>
+And she's twеlve years old</quote>
 </div><div class="column">
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<t></t>
 </div></div>
 
 ---
