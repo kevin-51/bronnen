@@ -40,23 +40,23 @@ Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta
 ## Kunstwerken
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<t>'De wereld gaat eraan, maar we kijken allemaal de ander kant op.' Dat is de boodschap die RAYE met het nummer <em>Environmental Anxiety.</em>. En hoewel dit op zichzelf al een confronterende boodschap is, is het nog confronterender wanneer ze het heeft over de kinderen die leven in de huidige generatie:</t>
+<p>'De wereld gaat eraan, maar we kijken allemaal de ander kant op.' Dat is de boodschap die RAYE met het nummer <em>Environmental Anxiety.</em>. En hoewel dit op zichzelf al een confronterende boodschap is, is het nog confronterender wanneer ze het heeft over de kinderen die leven in de huidige generatie:</p>
 
 <div style="margin-left: 20px;">
-<t>Come on, kids, it's time to vote<br>
+<p>Come on, kids, it's time to vote<br>
 Boris Johnson's sniffing coke<br>
 All the children are depressed<br>
 Not the future we had hoped<br>
 Little girls aren't safe at home<br>
 She scrolling up and down her phone<br>
-She hates her life, she hatеs herself<br>
-And she's twеlve years old
-</t></div>
+She hates her life, she hates herself<br>
+And she's twelve years old
+</p></div>
 
-<t>hi</t>
+<p>hi</p>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<t></t>
+<p></p>
 
 
 ---
