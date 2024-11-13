@@ -29,18 +29,21 @@ TO DO
 - Correct Nederlands
 -->
 
-Voeg hier een inleiding in.
+## Ik en mijn ontwikkeling
+Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn.
 
-Voeg hier je tekst in.
-
-Voeg hier je slot in.
+## Ik en de maatschappij
+Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta ik nu? Om dit het beste uit te leggen gebruik ik tien vaktermen van *Praktijkboek Sociologie* (Hendrix, 2018).
 
 ## Kunstwerken
+<div class="row"><div class="column">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0F0Fsao0H2ceIQdzGNTkrP?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div><div class="column">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qpmH5ijUjGGKB0ZcJUzwh?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div></div>
 
 ---
 ### Gebruikte bronnen
-Voeg hier je gebruikte bronnen in.
+- Hendrix, H. (2018). *Praktijkboek sociologie*. Boom.
