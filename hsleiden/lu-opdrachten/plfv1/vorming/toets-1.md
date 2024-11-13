@@ -38,22 +38,22 @@ De basisschool was pas drie tot zes jaar oud toen ik erbij kwam.
 Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta ik nu? Om dit het beste uit te leggen gebruik ik tien vaktermen van *Praktijkboek Sociologie* (Hendrix, 2018).
 
 ## Kunstwerken
-<div class="row"><div class="column" style="margin-right: 10px;">
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <t>'De wereld gaat eraan, maar we kijken allemaal de ander kant op.' Dat is de boodschap die RAYE met het nummer <em>Environmental Anxiety.</em>. En hoewel dit op zichzelf al een confronterende boodschap is, is het nog confronterender wanneer ze het heeft over de kinderen die leven in de huidige generatie:</t>
-<quote style="margin-left: 20px;">
-Come on, kids, it's time to vote<br>
-Boris Johnson's sniffing coke<br>
-All the children are depressed<br>
-Not the future we had hoped<br>
-Little girls aren't safe at home<br>
-She scrolling up and down her phone<br>
-She hates her life, she hatеs herself<br>
-And she's twеlve years old</quote>
-</div><div class="column">
+
+<t style="margin-left: 20px;">Come on, kids, it's time to vote</t>
+<t style="margin-left: 20px;">Boris Johnson's sniffing coke</t>
+<t style="margin-left: 20px;">All the children are depressed</t>
+<t style="margin-left: 20px;">Not the future we had hoped</t>
+<t style="margin-left: 20px;">Little girls aren't safe at home</t>
+<t style="margin-left: 20px;">She scrolling up and down her phone</t>
+<t style="margin-left: 20px;">She hates her life, she hatеs herself</tbr>
+<t style="margin-left: 20px;">And she's twеlve years old</t>
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <t></t>
-</div></div>
+
 
 ---
 ### Gebruikte bronnen
