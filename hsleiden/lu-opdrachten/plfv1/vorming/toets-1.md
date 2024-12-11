@@ -30,7 +30,7 @@ TO DO
 -->
 
 ## Ik en mijn ontwikkeling
-Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam. Zij zijn hier komen wonen toen onze wijk nog vollop werd gebouwd. Ik heb dus vollop de ontwikkeling van mijn wijk mogen meemaken. Van het veranderen van de speeltuin tot de bouw van een nieuwe 'villawijk'.
+Het begon allemaal zeventien jaar geleden. Ik werd geboren in een ziekenhuis in Leiderdorp en woon al mijn leven lang in Alphen aan den Rijn. Mijn ouders niet. Zij komen allebij uit regio Rotterdam. Zij zijn hier komen wonen toen onze wijk nog vollop werd gebouwd. Ik heb dus vollop de ontwikkeling van mijn wijk mogen meemaken. Van het veranderen van de speeltuin tot de bouw van een nieuwe 'villawijk'.
 
 De basisschool was pas drie tot zes jaar oud toen ik erbij kwam. 
 
@@ -39,7 +39,7 @@ Ik ben al meer dan zeventien jaar onderdeel van onze maatschappij, maar waar sta
 
 ## Kunstwerken
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sg4TwUriP3gRVNx0XMgXm?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p>De wereld gaat eraan, maar we kijken allemaal de ander kant op. Dat is de boodschap die RAYE met het nummer <em>Environmental Anxiety.</em>. En hoewel dit op zichzelf al een confronterende boodschap is, is het nog confronterender wanneer ze het heeft over de kinderen die leven in de huidige generatie:</p>
 
 <div style="margin-left: 20px;">
@@ -55,7 +55,7 @@ And she's twelve years old" (RAYE, 2023)
 
 <p>hi</p>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0CbhKPvyiEYG7Cy2g50BP1?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <p></p>
 
 
