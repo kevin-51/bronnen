@@ -41,11 +41,11 @@ h2 {
 time {
     font-family: 'lato';
     font-weight: bold;
-    color: #3f3f3f;
+    color: #ffffff;
 }
 
 article {
-    border-bottom: 1px solid #aaa;
+    border-bottom: 1px solid #ffffff;
     margin-bottom: 50px;
     padding-bottom: 10px;
 }
@@ -70,7 +70,7 @@ article h1 {
 }
 
 article h1 a {
-    color: black;
+    color: white;
 }
 
 p, ul, ol, article > a {
@@ -94,7 +94,7 @@ footer {
 }
 
 p a, article a, footer a, li a {
-    color: #073763;
+    color: #ffffff;
     font-style: italic;
 }
 
@@ -119,10 +119,10 @@ nav > a {
     font-family: 'lato';
     font-size: 18px;
     background-color: none;
-    color: #073763;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
-    border: 3px solid #073763;
+    border: 3px solid #ffffff;
     display: inline-block;
     vertical-align: middle;
 
@@ -133,10 +133,10 @@ nav > a {
     font-family: 'lato';
     font-size: 18px;
     background-color: none;
-    color: #073763;
+    color: #ffffff;
     text-decoration: none;
     font-weight: bold;
-    border: 3px solid #073763;
+    border: 3px solid #ffffff;
     display: inline-block;
     vertical-align: middle;
 
