@@ -1,6 +1,5 @@
 ---
 title: Thema KO
-layout: hsl-24H2
 permalink: /hsleiden-lu/plfv1ko-verzameling/
 ---
 <html>
