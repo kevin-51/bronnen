@@ -12,6 +12,13 @@
     font-style: normal;
 }
 
+.playwrite-nl-bold {
+    font-family: "Playwrite NL", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
 body {
     color: #f3f3f3;
     font-family: 'lato';
