@@ -12,19 +12,21 @@
     font-style: normal;
 }
 
-.playwrite-nl-bold {
-    font-family: "Playwrite NL", serif;
+.dynapuff-bold {
+    font-family: "DynaPuff", system-ui;
     font-optical-sizing: auto;
-    font-weight: 400;
+    font-weight: 700;
     font-style: normal;
-}
+    font-variation-settings:
+      "wdth" 100;
+  }
 
 body {
-    color: #f3f3f3;
+    color: #448375;
     font-family: 'lato';
     margin: 0 auto 1.6rem auto;
     max-width: 40rem;
-    background-color: #3f3f3f;
+    background-color: #c8e3de;
 }
 
 img {
@@ -33,28 +35,28 @@ img {
 }
 
 body > header h1 {
-    color: #f3f3f3;
+    color: #448375;
 }
 
 h1 {
     font-family: 'montserrat';
-    color: #f3f3f3;
+    color: #448375;
 }
 
 h2 {
     font-family: 'lato';
     font-weight: bold;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 time {
     font-family: 'lato';
     font-weight: bold;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 article {
-    border-bottom: 1px solid #f3f3f3;
+    border-bottom: 1px solid #448375;
     margin-bottom: 50px;
     padding-bottom: 10px;
 }
@@ -66,7 +68,7 @@ article:last-child {
 }
 
 article header {
-    color: #f3f3f3;
+    color: #448375;
     font-size: 16px;
     font-weight: bold;
     margin-bottom: 5px;
@@ -76,11 +78,11 @@ article header {
 article h1 {
     font-size: 28px;
     line-height: 33.6px;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 article h1 a {
-    color: #f3f3f3;
+    color: #448375;
 }
 
 p, ul, ol, article > a {
@@ -88,7 +90,7 @@ p, ul, ol, article > a {
     font-size: 18px;
     line-height: 25px;
     margin: 0 0 20px;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 article main h2 {
@@ -96,18 +98,18 @@ article main h2 {
     line-height: 22px;
     margin-top: 16px;
     margin-bottom: 8px;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 footer {
     border-top: 1.5px solid #ffffff;
     margin-top: 25px;
     padding-top: 10px;
-    color: #f3f3f3;
+    color: #448375;
 }
 
 p a, article a, footer a, li a {
-    color: #f3f3f3;
+    color: #448375;
     font-style: italic;
 }
 
@@ -132,10 +134,10 @@ nav > a {
     font-family: 'lato';
     font-size: 18px;
     background-color: none;
-    color: #f3f3f3;
+    color: #448375;
     text-decoration: none;
     font-weight: bold;
-    border: 3px solid #f3f3f3;
+    border: 3px solid #448375;
     display: inline-block;
     vertical-align: middle;
 
@@ -146,10 +148,10 @@ nav > a {
     font-family: 'lato';
     font-size: 18px;
     background-color: none;
-    color: #f3f3f3;
+    color: #448375;
     text-decoration: none;
     font-weight: bold;
-    border: 3px solid #f3f3f3;
+    border: 3px solid #448375;
     display: inline-block;
     vertical-align: middle;
 
