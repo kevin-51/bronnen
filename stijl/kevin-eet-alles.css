@@ -155,7 +155,21 @@ nav > a {
     border: 3px solid #448375;
     display: inline-block;
     vertical-align: middle;
+}
 
+.button-fw {
+    padding: 5px 10px;
+    font-family: 'lato';
+    font-size: 18px;
+    background-color: none;
+    color: #448375;
+    text-decoration: none;
+    font-weight: bold;
+    border: 3px solid #448375;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
 }
 
 header {
