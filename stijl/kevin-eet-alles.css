@@ -40,7 +40,7 @@ body > header h1 {
 }
 
 h1 {
-    font-family: 'dynapuff-bold';
+    font: 'dynapuff-bold';
     color: #448375;
 }
 
