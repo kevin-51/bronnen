@@ -2,6 +2,10 @@
 title: Zelfbeeld
 layout: hsl-25H1
 permalink: /hsleiden-lu/plfv1re-toets2/
+style: |
+    body{
+        background-color: #ffffff;
+    }
 ---
 ![peer](https://www.veggipedia.nl/assets/Uploads/Products/1667de63a9/Conference-peer-fruit-veggipedia.jpg)
 
