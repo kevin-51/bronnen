@@ -36,11 +36,11 @@ img {
 
 body > header h1 {
     color: #448375;
-    font-family: "DynaPuff";
+    font: 'dynapuff-bold';
 }
 
 h1 {
-    font-family: "DynaPuff";
+    font-family: 'dynapuff-bold';
     color: #448375;
 }
 
